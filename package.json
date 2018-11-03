@@ -1,0 +1,19 @@
+{
+  "name": "test_webstorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNick99/Test_WebStorm.git"
+  },
+  "author": "Nikolay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SNick99/Test_WebStorm/issues"
+  },
+  "homepage": "https://github.com/SNick99/Test_WebStorm#readme"
+}
